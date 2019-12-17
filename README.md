@@ -1,2 +1,6 @@
 # Bot-Scheduler
-Telegram-Bot that is designed to help students track their academic performance and get ready for classes
+Telegram-Bot разработан как вариант дистанционного обучения для помощи студентам в отслеживании их успеваемости и подготовки к занятиям.
+
+Расширение .gs означает Google scripts
+
+Сам файл является скриптом для Google Sheet, в которой находятся таблички, в которых содержатся информация о пользователях, сценарии бота
